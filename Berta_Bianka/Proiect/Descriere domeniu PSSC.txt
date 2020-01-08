@@ -1,0 +1,8 @@
+Enunt: - Am implementat o aplicatie web în domeniul vanzarilor. 
+          - În aplicatia web se stocheaza produse handmade(cum ar fi cutii pentru bijuterii, picturi, cercei handmade,etc.), clientii care comanda si comenzile lor.
+
+Functionalitati: - Inregistrare/Logare 
+	        - Clientii pot vedea tipul produsului(bijuterie/cutie pentru bijuterii/pictura), numele produsului (asta insemnand o mica descriere al acestuia) si 
+                            cate produse de acest fel sunt pe stoc.
+	        - Adminul are posibilitatea de a adauga produse noi.
+	        - Clientul poate consulta produsele handmade si poate cumpara produse, stocul actualizandu-se automat dupa cumpararea acestora.
