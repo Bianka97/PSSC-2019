@@ -1,0 +1,7 @@
+	Problema: Cautarea unui hotel
+ Solutie: Implementarea unui sistem software care usureaza gasirea unui hotel.
+	Persoanele pot accesa aceasta aplicatie web pentru
+a vizualiza hotele nefiind nevoie de deplasare la un hotel.
+	De asemenea poate vizualiza un numar de telefon al hotelelor.
+	Managerul unui hotel nou se poate adauga printr-o aplicatie Windows.
+	

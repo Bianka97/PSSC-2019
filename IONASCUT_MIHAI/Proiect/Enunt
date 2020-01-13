@@ -1,0 +1,7 @@
+Aplicatie pentru folosirea conturilor bancare.
+
+In aplicatie utilizatorul va putea sa faca urmatoarele actiuni:
+- sa creeze un nou count bancar
+- sa adauge bani in cont
+- sa retraga bani din cont
+- sa transfere bani catre un alt cont prin IBAN

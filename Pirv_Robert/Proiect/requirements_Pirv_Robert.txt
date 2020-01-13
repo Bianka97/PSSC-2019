@@ -1,0 +1,11 @@
+Se va crea o aplicatie web care va facilita crearea de rezervari pentru o spalatorie auto.
+Cerinte si functionalitati:
+	Clientii vor putea accesa pagina web a spalatoriei auto si vor avea posibilitatea de crea o noua rezervare pentru spalare. 
+Fiecare utilizator i se va cere un numar de telefon. Fiecarui utilizator i se va atribui, de catre aplicatie, un GUID pentru a i se putea tine evidenta. Fiecare rezervare 
+va fi introdus intr-o baza de date. 
+	Clientului i se va cere sa introduca starea actuala a vehiculului ( se vor putea alege intre "relativ curata", "murdara", "extrem de 
+murdara", percepandu-se diferite taxe in raport cu gradul de murdarie). Utilizatorul va putea selecta ce servicii doreste: interior, 
+exterior, portbagaj, ceara. La sfarsitul alegerii serviciilor i se va afisa pretul total, data si ora rezervarii si un mic sumar al rezervarii. 
+	Administratorul sistemului are access la toate rezervarile, putand efectua orice operatie asupra rezervarilor. 
+	
+	
